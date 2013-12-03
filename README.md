@@ -17,7 +17,6 @@ It runs using a webhook for inbound emails on its email address (using postmarka
 
 **Limitations**
 
-- It does not check whether the person STARTing/STOPing the watch is a repo collaborator or not.This should be fixed soon. 
 - Its currently running on the postmark free tier, so it will stop working after it processes 10k emails. 
 - It cannot stop watchers from receiving notifications or replying to them via email. So, the comments may be visible for a small time (~2 minutes) before they are deleted.
 
