@@ -1,6 +1,6 @@
 #eteled
 
-GitHub bot to actively delete comments for a closed issue.
+GitHub bot to actively delete comments for a closed thread (issue, commit, pull request).
 
 Simple Usage Instructions:
 
